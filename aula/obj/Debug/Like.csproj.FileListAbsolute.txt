@@ -1,0 +1,6 @@
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.Like.resources
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csproj.GenerateResource.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.exe
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.pdb
